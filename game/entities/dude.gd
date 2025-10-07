@@ -5,7 +5,7 @@ extends Entity
 
 # func on_ready() -> void:
 # 	# we probably want to sync the component transform to the node transform
-# 	ECSUtils.sync_transform(self)
+	#ECSUtils.sync_transform(self)
 
 #func on_update(delta: float) -> void:
 #pass
